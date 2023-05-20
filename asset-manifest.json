@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/APP/static/css/main.c2f2ee4a.css",
+    "main.js": "/APP/static/js/main.0298bf44.js",
+    "static/media/kiena.ttf": "/APP/static/media/kiena.07d92a9195daa1addb2d.ttf",
+    "index.html": "/APP/index.html",
+    "main.c2f2ee4a.css.map": "/APP/static/css/main.c2f2ee4a.css.map",
+    "main.0298bf44.js.map": "/APP/static/js/main.0298bf44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2f2ee4a.css",
+    "static/js/main.0298bf44.js"
+  ]
+}
